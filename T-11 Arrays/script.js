@@ -54,12 +54,12 @@
 // }
 
 // practice que 1)
-let marks = [85,97,44,37,76,60];
-// console.log(marks.length);
-let sum=0;
-for(let i=0;i< marks.length; i++){
-    sum = sum + marks[i];
-    let avg = sum/marks.length;
-    console.log("sum =", sum);
-    console.log("sum =", avg);
-}
+// let marks = [85,97,44,37,76,60];
+// // console.log(marks.length);
+// let sum=0;
+// for(let i=0;i< marks.length; i++){
+//     sum = sum + marks[i];
+//     let avg = sum/marks.length;
+//     console.log("sum =", sum);
+//     console.log("sum =", avg);
+// }
